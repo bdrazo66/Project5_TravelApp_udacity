@@ -2,12 +2,10 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    
 }
 
 main {
     flex: 2;
-    
 }
 
 section {
@@ -29,4 +27,7 @@ h1 {
 .cont {
     display: block;
 }
-.submit{align-items: center;}
+
+.submit {
+    align-items: center;
+}

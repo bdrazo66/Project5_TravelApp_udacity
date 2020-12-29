@@ -5,6 +5,7 @@ import { handleSubmit } from './js/formHandler';
 import './styles/base.css';
 //import './styles/footer.css';
 import './styles/materialize.css';
+//import 'materialize-css/dist/css/materialize.min.css'
 import 'materialize-css/dist/css/materialize.min.css'
 import 'materialize-css/dist/js/materialize.min'
 //import '../../dist/'
